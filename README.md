@@ -17,5 +17,6 @@ Aspiring Data Engineer focused on building data pipelines using Python and SQL.
 To become a Data Engineer intern working on real-world data systems.
 
 ## 📫 Contact
-LinkedIn: https://www.linkedin.com/in/shankuri-anu
+LinkedIn:https://www.linkedin.com/in/shankuri-anu-0641ba288?
+
 Email: anushankuri1918@gmail.com
